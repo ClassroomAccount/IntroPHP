@@ -10,6 +10,7 @@ $y = 23;
 $z = $x + $y;
 $b = true;
 $s = "Bentley";
+$foo = "foobar";
 
 //echo web page to browser
 echo "<!DOCTYPE html>
