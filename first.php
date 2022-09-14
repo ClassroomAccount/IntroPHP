@@ -10,8 +10,7 @@
 
 <?php
 /* This script will define variables, constants, and echo to a web page
-    Notice that echo may have one or more arguments, comma separated. 
-    
+    Notice that echo may have one or more arguments, comma separated.
  */
 
 define("school", "Bentley");   //define constant named school
