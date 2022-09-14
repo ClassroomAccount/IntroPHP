@@ -4,13 +4,15 @@
  */
 define("school", "Bentley");   //define constant named school
 
-//define some variables
+//define some variables:
 $x = 5;
 $y = 23;
 $z = $x + $y;
 $b = true;
 $s = "Bentley";
 $foo = "foobar";
+$first = "first";
+$date = "09/14/2022";
 
 //echo web page to browser
 echo "<!DOCTYPE html>
